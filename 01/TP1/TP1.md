@@ -1,7 +1,15 @@
 # Ejercicio 1
 
+### 7
+Ahora la correlación entre $x_{1}$ y $x_{2}$ es alta, por lo que tenemos multicolinealidad, pero no es perfecta, ya que la correlación no es exacta. Por ende, el métodos de mínimos cuadrados para estimar los $\beta$ sigue siendo $MELI$. 
 
 # Ejercicio 2
+
+### 1
+
+
+### 2
+
 
 
 # Ejercicio 3
